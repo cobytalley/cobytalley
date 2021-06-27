@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jacoby (Coby) Talley</h1>
 <h3 align="center">I am a full stack software developer who enjoys collaborating with others to build highly scalable products that help people and businesses across the globe 🌎</h3>
 
-- 🌞 My day job is building automated data pipelines that transform information across Capital One's data ecosystem @ [Capital One](capitalone.com)
+- 🌞 My day job is building automated data pipelines that transform information across Capital One's data ecosystem @ [Capital One](https://www.capitalone.com)
 
-- 🌝 My night job is helping on people save money on their dream vacations @ [PriceMatchIt](pricematchit.com)
+- 🌝 My night job is helping on people save money on their dream vacations @ [PriceMatchIt](https://www.pricematchit.com)
 
 - 🤓 My pronouns are He, Him, His 
 
