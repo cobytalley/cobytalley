@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jacoby (Coby) Talley</h1>
-<h3 align="center">I am a full stack software developer who enjoys collaborating with others to build highly scalable products that help people and businesses across the globe 🌎</h3>
-
-- 🌞 My day job is building automated data pipelines that transform information across Capital One's data ecosystem @ [Capital One](https://www.capitalone.com)
-
-- 🌝 My night job is helping on people save money on their dream vacations @ [PriceMatchIt](https://www.pricematchit.com)
+<h3 align="center">I am a backend leaning full-stack software developer who enjoys collaborating with others to build highly scalable products that help people and businesses across the globe 🌎</h3>
 
 - 🤓 My pronouns are He, Him, His 
 
-- 💬 Ask me about **Non-traditional software engineering paths, full stack development, data engineering, start ups and entrepreneurship, fin-tech**
+- 💬 Ask me about **Non-traditional software engineering paths, data engineering, start ups and entrepreneurship, fin-tech**
 
 - 📫 How to reach me **jacoby.talley@gmail[dot]com**
 
@@ -15,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/cobytalley" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cobytalley" height="30" width="40" /></a>
+</a>
 <a href="https://linkedin.com/in/cobytalley" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cobytalley" height="30" width="40" /></a>
 </p>
 
